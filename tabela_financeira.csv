@@ -1,3 +1,2 @@
-ID,data,receita,despesa
-1,2024-01-21 00:00:00,111.0,-0.0
-2,2024-01-21 00:00:00,0.0,-33.0
+ID,data de inicio,data de fim,montante,capital,taxa do investimento
+1,1999-03-02 00:00:00,2000-03-03 00:00:00,51486757.77367791,1001.0,0.03
